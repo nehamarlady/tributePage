@@ -1,0 +1,31 @@
+
+img{
+    
+    max-width: 250px;
+    display: block;
+    padding: 0 800px;
+    margin-bottom: 0;
+    margin-top: 20px;
+}
+body{
+    padding: auto;
+    
+}
+html{
+    text-align: center;
+}
+#tribute-info{
+    display: block;
+    margin: 0 650px;
+    text-align: left;
+    
+}
+.div2,.div1{
+    background-color: #E8E8E8;
+    font-family: monospace;
+}
+.div1{
+    padding: 30px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
